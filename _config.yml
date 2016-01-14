@@ -1,10 +1,9 @@
 # Site settings
-title:Networkable Solutions
-email:info@networkable.org
-description: > # this means to ignore newlines until "baseurl:"
-Solution for your school's network.
+title: Networkable Solutions
+email: info@networkable.org
+description: An open-source solution for your school's network.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://www.networkable.org" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
